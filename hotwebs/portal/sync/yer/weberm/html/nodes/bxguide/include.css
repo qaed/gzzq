@@ -1,0 +1,25 @@
+body{
+	background:#FFFFFF ; 
+}
+
+
+.topinfo_table_div
+{
+	width:*;
+	height:630px;
+	overflow:hidden;
+	background-color:#FFFFFF ; 
+	font-family:微软雅黑, Arial,sans-serif;
+}
+
+.info_table_div
+{
+	width:*;
+	height:630px;
+	overflow:auto;
+	padding:0px 0px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color:#FFFFFF ; 
+	font-family:微软雅黑, Arial,sans-serif;
+}

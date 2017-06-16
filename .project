@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>gzzq</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>nc.uap.mde.ModuleBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>nc.uap.mde.ModuleProjectNature</nature>
+		<nature>nc.uap.mde.BizCompProjectNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>NCHOME</name>
+			<type>2</type>
+			<location>F:/Work/ufida/gzzq_home/NC633BAK1201</location>
+		</link>
+	</linkedResources>
+</projectDescription>

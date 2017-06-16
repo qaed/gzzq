@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding='UTF-8'?>
+<!DOCTYPE UIMeta PUBLIC "-//Yonyou Co., Ltd.//UAP LFW UIMeta 6.3//EN" "http://uap.yonyou.com/dtd/uap_lfw_um_6_3.dtd">
+<UIMeta flowmode="true" id="main_um" jquery="0" preferredHeight="" preferredWidth="">
+    <FlowvLayout id="mainFlowvLayout" widgetId="main" height="100%"> 
+        <FlowvPanel id="g_p_1" widgetId="main" >
+            <HtmlContent id="webpartbxguide" left="0" height="100%" position="relative" top="0" widgetId="main" >
+            </HtmlContent>
+        </FlowvPanel>
+    </FlowvLayout>
+</UIMeta>

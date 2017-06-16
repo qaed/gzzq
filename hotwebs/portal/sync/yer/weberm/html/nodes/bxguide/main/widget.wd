@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding='UTF-8'?>
+<!DOCTYPE Widget PUBLIC "-//Yonyou Co., Ltd.//UAP LFW VIEW 6.3//EN" "http://uap.yonyou.com/dtd/uap_lfw_view_6_3.dtd">
+<Widget controllerClazz="nc.bs.er.exp.ctrl.ExpBxGuideMainCtrl" id="main" refId="main" sourcePackage="weberm/src/public/">
+    
+    <PageMetas>
+    </PageMetas>
+    
+    <Events>
+        <Event async="true" methodName="beforeShow" name="beforeShow" onserver="true">
+            <Action>
+            </Action>
+        </Event>
+    </Events>
+    
+    <Components>
+        <WebPartComp contentFetcher="nc.bs.er.exp.provider.ExpBxGuideWebConProvider" id="webpartbxguide">
+        </WebPartComp>
+    </Components>
+</Widget>
