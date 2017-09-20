@@ -162,4 +162,58 @@
     </resource>
     <funnodes/>
   </BusinessComponet>
+  <BusinessComponet name="uap" dispname="uap">
+    <public>
+      <src name="src/public"/>
+    </public>
+    <client>
+      <src name="src/client"/>
+    </client>
+    <private>
+      <src name="src/private"/>
+    </private>
+    <test>
+      <src name="src/test"/>
+    </test>
+    <resource>
+      <src name="resources"/>
+    </resource>
+    <funnodes/>
+  </BusinessComponet>
+  <BusinessComponet name="uap" dispname="uap">
+    <public>
+      <src name="src/public"/>
+    </public>
+    <client>
+      <src name="src/client"/>
+    </client>
+    <private>
+      <src name="src/private"/>
+    </private>
+    <test>
+      <src name="src/test"/>
+    </test>
+    <resource>
+      <src name="resources"/>
+    </resource>
+    <funnodes/>
+  </BusinessComponet>
+  <BusinessComponet name="ufofr" dispname="ufofr">
+    <public>
+      <src name="src/public"/>
+    </public>
+    <client>
+      <src name="src/client"/>
+    </client>
+    <private>
+      <src name="src/private"/>
+    </private>
+    <test>
+      <src name="src/test"/>
+    </test>
+    <resource>
+      <src name="resources"/>
+    </resource>
+    <funnodes/>
+  </BusinessComponet>
 </Manifest>
